@@ -2,7 +2,8 @@
 **Description**
 This project predicts passenger survival on the Titanic using machine learning models implemented from scratch, without relying on scikit-learn classifiers. It demonstrates how classic algorithms such as Decision Trees and Random Forests work internally and includes a Support Vector Machine (SVM) for performance comparison.
 The repository provides a hands-on approach to building predictive models and evaluating their accuracy.
-<img width="1037" height="601" alt="image" src="https://github.com/user-attachments/assets/477e57e5-b877-411f-9eae-11150e941e7a" />
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/744d47de-dff2-44fb-a466-dccf649db3d6" />
+
 **Features**
 **Data Preprocessing**: Handle missing values, encode categorical variables, and select important features.
 **Custom Decision Tree**: Fully implemented algorithm for classification.
