@@ -8,12 +8,6 @@ Original file is located at
 
 # Titanic Survival Prediction — Custom Decision Tree and Random Forest
 
-**Roll Number:** *25280106*  
-**Course:** AI500 — Machine Learning  
-**Assignment:** Project 3 — Decision Trees & Random Forests  
-
----
-
 ### Overview
 
 In this project, we build two models **from scratch** (without using scikit-learn classifiers):
